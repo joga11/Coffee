@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 Generated NewTarget_PDF.fltar" Date="2021-06-15T19:01:46.3861688+02:00">
+    <Messages>Compiling target NewTarget_PDF...
+Build failed: Compiler: Output folder is inside project content folder : D:\Dysk E\Komunikacja techniczna\MBartnicka_21-01-2021\github_rep_30_01_2021\Repozytoria\my_coffee_T\my_coffee\Content\
+Saving log to "D:\Dysk E\Komunikacja techniczna\MBartnicka_21-01-2021\github_rep_30_01_2021\Repozytoria\my_coffee_T\my_coffee\Content\Output\NewTarget_PDF\NewTarget_PDF.mclog"
+</Messages>
+    <Warnings />
+    <Errors>
+        <LogEntry File="Project\Targets\NewTarget_PDF.fltar" Message="Build failed: Compiler: Output folder is inside project content folder : D:\Dysk E\Komunikacja techniczna\MBartnicka_21-01-2021\github_rep_30_01_2021\Repozytoria\my_coffee_T\my_coffee\Content\&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="NewTarget_PDF" ErrorID="10086" />
+    </Errors>
+</MadCapLog>

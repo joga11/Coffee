@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'Arabica',c:0},{t:'Blade grinder',c:0},{t:'Burr grinder',c:0},{t:'Coffee',c:0},{t:'Coffee shrubs',c:0},{t:'Espresso',c:0},{t:'Robusta',c:0}]});
