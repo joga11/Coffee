@@ -389,26 +389,28 @@
 
 .micro-response .dropDownHotspot
 {
+	color: #bdb76b;
 	text-decoration: none;
 }
 
 .micro-response .dropDownHotspot:link
 {
+	color: #bdb76b;
 	text-decoration: none;
 }
 
 .micro-response .MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
 {
 	background-position: left;
-	background-image: url('DropDownOpen.gif');
-	padding-left: 1px;
+	background-image: url('arrow-down-gray.png');
+	padding-left: 0px;
 	padding-right: 0;
 }
 
 .micro-response .MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
 {
 	background-position: left;
-	background-image: url('DropDownClosed.gif');
+	background-image: url('arrow-right-gray.png');
 	padding-left: 0px;
 	padding-right: 0;
 }

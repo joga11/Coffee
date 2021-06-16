@@ -279,7 +279,7 @@ nav.title-bar
 	display: block;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: #bdb76b;
+	background-color: #4F7476;
 }
 
 nav.title-bar .menu-icon
@@ -322,7 +322,7 @@ nav.title-bar .menu-icon
 	display: flex;
 	flex: 0 1 auto;
 	order: 1;
-	min-height: 55px;
+	min-height: 75px;
 	align-self: center;
 	justify-content: flex-start;
 }
@@ -335,10 +335,10 @@ nav.title-bar .menu-icon
 	z-index: 1;
 	display: block;
 	width: 55px;
-	height: 55px;
+	height: 75px;
 	align-self: center;
-	background: transparent url('Images/coffee-logo.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/coffee-logo.png') no-repeat center center;
+	background: transparent url('Images/depositphotos_2467482-stock-illustration-coffee_1.jpg') no-repeat center center;
+	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/depositphotos_2467482-stock-illustration-coffee_1.jpg') no-repeat center center;
 }
 
 .title-bar-container
@@ -763,7 +763,7 @@ div.central-dropdown-content > a:hover
 
 .menu-icon-container
 {
-	min-height: 55px;
+	min-height: 75px;
 }
 
 .off-canvas-wrapper-inner .outer-row

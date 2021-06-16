@@ -15,7 +15,7 @@
 	{
 		height: 100%;
 		overflow-x: hidden;
-		background-color: #bdb76b;
+		background-color: #4f7476;
 	}
 
 	.off-canvas-content
@@ -56,7 +56,7 @@
 	{
 		background-position: center top;
 		background-repeat: no-repeat;
-		background-color: #bdb76b;
+		background-color: #4F7476;
 	}
 
 	/* Topbar Menu Styles */
@@ -84,9 +84,9 @@
 		top: 0;
 		margin: 0;
 		width: 55px;
-		height: 55px;
-		background: transparent url('Images/coffee-logo.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/coffee-logo.png') no-repeat center center;
+		height: 75px;
+		background: transparent url('Images/depositphotos_2467482-stock-illustration-coffee_1.jpg') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/depositphotos_2467482-stock-illustration-coffee_1.jpg') no-repeat center center;
 	}
 
 	.title-bar .menu-icon span
@@ -303,13 +303,13 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 55px;
+		min-height: 75px;
 		flex-basis: 100%;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 55px;
+		min-height: 75px;
 	}
 
 	.off-canvas-wrapper-inner .outer-row
@@ -324,7 +324,7 @@
 
 	.off-canvas ul ul
 	{
-		background-color: #bdb76b;
+		background-color: #4f7476;
 	}
 
 	ul.off-canvas-list ul > li > a
